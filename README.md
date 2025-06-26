@@ -135,7 +135,7 @@ The frontend application should open in your browser, usually at http://localhos
 If you'd like to contribute, please fork the repository and create a pull request.
 
 ### CONTRIBUTORS:
-- xthxr (https://github.com/xthxr)
-- ankit (https://github.com/Iankitsinghak)
-- roky (https://github.com/R47148)
-- subhankar (https://github.com/suvancodes)
+- Athar Akram (https://github.com/xthxr)
+- Ankit Singh (https://github.com/Iankitsinghak)
+- Roky Singha (https://github.com/R47148)
+- Subhankar Payra (https://github.com/suvancodes)
